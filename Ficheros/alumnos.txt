@@ -1,0 +1,3 @@
+Nombre: Oscar - Apellido: Ongil Villar - Tramo: 2 - Bilingüe: Si
+Nombre: Jorge - Apellido: Ongil Villar - Tramo: 3 - Bilingüe: No
+Nombre: Mary - Apellido: Jane - Tramo: 1 - Bilingüe: Si
